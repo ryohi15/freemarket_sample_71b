@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-wowow kota
+wowow kota ueta
