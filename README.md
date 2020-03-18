@@ -59,7 +59,7 @@
 
 ### Association
 - belongs_to :user
-- belongs_to :category1
+- belong :category
 - has_many :images
 
 
@@ -80,3 +80,4 @@
 
 ## Association
 - has_many :items
+- has_ancestry
