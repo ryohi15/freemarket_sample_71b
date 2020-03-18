@@ -64,3 +64,5 @@ gem 'haml-rails'
 
 gem 'mysql2'
 gem 'devise'
+gem 'devise-i18n'
+gem 'devise-i18n-views'
