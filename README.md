@@ -50,6 +50,7 @@
 |Column|Type|Options|
 |------|----|-------|
 |user_id|integer|null: false, foreign_key: true|
+|category_id|integer|null: false, foreign_key: true|
 |name|string|null: false|
 |content|text|null: false|
 |status|string|null: false|
@@ -59,7 +60,7 @@
 
 ### Association
 - belongs_to :user
-- belong :category
+- belongs_to :category
 - has_many :images
 
 
